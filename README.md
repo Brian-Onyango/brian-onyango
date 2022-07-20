@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there 👋 I am <a href="https://james-muriithi.firebaseapp.com/">Brian Onyango</a>!
+Hello there 👋 I am <a href="https://www.linkedin.com/in/itsbrianonyango/">Brian Onyango</a>!
 </h1>
 
 
