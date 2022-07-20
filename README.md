@@ -2,7 +2,9 @@
 Hello there 👋 I am <a href="https://james-muriithi.firebaseapp.com/">Brian Onyango</a>!
 </h1>
 
+<h1 align="center">
 ![Twitter Follow](https://img.shields.io/twitter/follow/itsbrianonyango?style=social) | ![GitHub followers](https://img.shields.io/github/followers/brian-onyango?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/18045288)
+</h1>
 
 I am a self-driven and motivated Data Scientist and Analyst. I have a strong interest in Data Science, Machine Learning, Deep Learning, Data Analytics, Financial Analytics, Business Intelligence (BI), Internet of Things (IoT), Blockchain, Artificial Intelligence (AI) and Strategic Leadership. My key strengths include strong interpersonal skills, quick problem solving abilities, sound judgement skills, strategic leadership and management. Challenging the status quo of businesses and our way of life using Big Data is my goal! <br>
 
