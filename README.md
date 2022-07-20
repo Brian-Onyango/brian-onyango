@@ -1,7 +1,9 @@
-### Hi there 👋, I'm Brian
+<h1 align="center">
+Hello there 👋 I am <a href="https://james-muriithi.firebaseapp.com/">Brian Onyango</a>!
+</h1>
 
 
-I am a data scienctist with a very deep interest in data analytics, machine learning, and deep learning. I enjoy finding new ways to derive the most information and insights from data, to be used for various business applications. Data science to me is like embraking on an adventure of a lifetime! <br>
+I am a self-driven and motivated Data Scientist and Analyst. I have a strong interest in Data Science, Machine Learning, Deep Learning, Data Analytics, Financial Analytics, Business Intelligence (BI), Internet of Things (IoT), Blockchain, Artificial Intelligence (AI) and Strategic Leadership. My key strengths include strong interpersonal skills, quick problem solving abilities, sound judgement skills, strategic leadership and management. Challenging the status quo of businesses and our way of life using Big Data is my goal! <br>
 
 ## Languages, Databases and Libraries
 
