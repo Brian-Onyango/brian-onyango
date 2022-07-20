@@ -28,4 +28,4 @@ I am a data scienctist with a very deep interest in data analytics, machine lear
     </div>
 </div>
 
-![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-onyango&theme=gotham&layout=compact)
+![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian_onyango&theme=gotham&layout=compact)
