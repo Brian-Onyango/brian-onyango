@@ -17,3 +17,15 @@ I am a data scienctist with a very deep interest in data analytics, machine lear
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-onyango&show_icons=true&theme=merko)
 
+## My Github Stats
+
+<div style="display: flex;">
+    <div style="width: 50%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=brian-onyango&theme=gotham" />
+    </div>
+    <div style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=brian-onyango&theme=gotham&custom_title=Brian%20github%20stats" />
+    </div>
+</div>
+
+![Brian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brian-onyango&theme=gotham&layout=compact)
