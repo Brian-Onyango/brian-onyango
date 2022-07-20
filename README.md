@@ -13,9 +13,6 @@ I am a data scienctist with a very deep interest in data analytics, machine lear
 ## Language Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-onyango&show_icons=true&locale=en&layout=compact" alt="brian-onyango" /></p>
 
-<br></br>
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-onyango&show_icons=true&theme=merko)
 
 ## My Github Stats
 
