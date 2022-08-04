@@ -6,7 +6,7 @@ Hello there 👋 I am <a href="https://www.linkedin.com/in/itsbrianonyango/">Bri
 ![Twitter Follow](https://img.shields.io/twitter/follow/itsbrianonyango?style=social) | ![GitHub followers](https://img.shields.io/github/followers/brian-onyango?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/18045288) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=stogaja.stogaja)
 
 
-I am a self-driven and motivated Data Scientist and Analyst. I have a strong interest in Data Science, Machine Learning, Deep Learning, Data Analytics, Financial Analytics, Business Intelligence (BI), Internet of Things (IoT), Blockchain, Artificial Intelligence (AI) and Strategic Leadership. My key strengths include strong interpersonal skills, quick problem solving abilities, sound judgement skills, strategic leadership and management. Challenging the status quo of businesses and our way of life using Big Data is my goal! <br>
+I am a self-driven and motivated Data Scientist and Analyst. I have a strong interest in Data Science, Machine Learning, Deep Learning, Data Analytics, Financial Analytics, Business Intelligence (BI), Artificial Intelligence (AI), and Strategic Leadership. My key strengths include strong interpersonal skills, quick problem-solving abilities, sound judgment skills, strategic leadership, and management. My goal is to challenge the status quo of businesses and our way of life using Big Data! <br>
 
 <h3 align="left">Connect with me:</h3>
 
